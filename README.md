@@ -15,5 +15,6 @@
 
 ## 📂 Projects
 
-持续整理中
+- [acm-solutions](https://github.com/zikkfvll/acm-solutions) — C++ 算法练习、比赛代码与学习笔记。
+- [hnust-beamer-template](https://github.com/zikkfvll/hnust-beamer-template) — 个人使用的湖南科技大学 LaTeX Beamer 汇报模板，基于 THU 主题调整。
 
